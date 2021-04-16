@@ -9,3 +9,4 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | https://gitlab.com/ccc109/w
 我的作業 | [homework](./homework)
+week1 note| [note1](./note/note1.md)
