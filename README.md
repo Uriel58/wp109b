@@ -10,3 +10,4 @@
 課程內容 | https://gitlab.com/ccc109/w
 我的作業 | [homework](./homework)
 week1 note| [note1](./note/note1.md)
+week1 note| [note2](./note/note1.md)
