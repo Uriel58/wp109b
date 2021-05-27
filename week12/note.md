@@ -17,14 +17,14 @@
 
 
 
-        getElementById(id) |element id
-        getElementsByTagName(name) | tag name
-        getElementsByClassName(name) | Find elements by class name
-        createElement(element) | Create an HTML element
-        anchors | Returns all <a> elements that have a name attribute
-        baseURI | Returns the absolute base URI of the document(很少用)
-        body | Returns the <body> element
-        cookie | Returns the document's cookie	
+        getElementById(id) |[element id]
+        getElementsByTagName(name) | [tag name]
+        getElementsByClassName(name) | [Find elements by class name]
+        createElement(element) | [Create an HTML element]
+        anchors | [Returns all <a> elements that have a name attribute]
+        baseURI | [Returns the absolute base URI of the document(很少用)]
+        body | [Returns the <body> element]
+        cookie | [Returns the document's cookie]
         doctype | [Returns the document's doctype]	
         documentElement | [Returns the <html> element]	
         documentMode | [Returns the mode used by the browser]	
@@ -53,5 +53,5 @@
         onmouseover | [移開滑鼠]
         onmousedow | [按住滑鼠]
         addEventListener(event, function useCapture) |[可以一直加函數並同時觸發]
-        week12 class| [week12-1](./week1/note.html)
-        week12 class| [week12-2](./week1/note.html)
+        week12 class| [week12-1](https://www.facebook.com/ccckmit/videos/10158967025341893)
+        week12 class| [week12-2](https://www.facebook.com/ccckmit/videos/10158967200556893)
