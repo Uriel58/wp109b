@@ -1,6 +1,6 @@
 #       DOM
         document.documentElement.clientHeight |document.body.clientHeight(視窗高)
-        document.documentElement.clientWidth =| document.body.clientWidth(視窗寬)
+        document.documentElement.clientWidth | document.body.clientWidth(視窗寬)
         window.open() |open a new window
         window.close() | close the current window
         window.moveTo() | move the current window
@@ -12,7 +12,8 @@
         window.location.protocol | returns the web protocol used (http: or https:)
         window.location.assign() | loads a new document
         window.history | history.back() - clicking back 、history.forward() -  clicking forward 
-        window.alert() window.confirm() |視窗
+        window.alert() |視窗[不回傳True False]
+        window.confirm |視窗[回傳True False]
         
 
 
