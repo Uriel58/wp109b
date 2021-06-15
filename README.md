@@ -9,8 +9,9 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | (https://gitlab.com/ccc109/)
 我的作業 | 期中考
+week | [note00](./homework/01/text.html)
 week1 note| [note1](./week1/note.html)
-week2 note| [note2](./week2/note.html)
+week2 note(best)| [note2](./week2/note.html)
 week3 note| [note3](./week3/note.html)
 week4 note| [note4](./week4/note.html)
 week5 note| [note5](./week5/note.html)
