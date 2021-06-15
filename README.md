@@ -8,7 +8,7 @@
 教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | (https://gitlab.com/ccc109/)
-我的作業 | [homework](./homework)
+我的作業 | 期中考
 week1 note| [note1](./week1/note.html)
 week2 note| [note2](./week2/note.html)
 week3 note| [note3](./week3/note.html)
@@ -22,3 +22,7 @@ week10 note| [note10](./week10/note.html)
 week11 note| [note11](./week11/note.html)
 week12 note| [note12](./week12/note.html)
 week13 note| [note13](./week13/note.html)
+week14 note| [note14](./week14/note.html)
+week15 note| [note15](./week15/note.html)
+week16 note| [note16](./week16/note.html)
+我的作業 | 期末考
