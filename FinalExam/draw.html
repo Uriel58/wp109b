@@ -1,0 +1,45 @@
+<html>
+<head>
+    <h1>draw on it</h1>
+  <meta charset="UTF-8">
+  <title>draw</title>
+  <script>
+      var p_color = "black";
+      var p_width = 1;
+      function draw() {
+          var canvas = document.getElementById("cSketchPad");
+          var ctx = canvas.getContext("2d");
+          ctx.lineCap = "round";
+          ctx.fillStyle = "rgba(15, 192, 236, 0.671)"; 
+          ctx.fillRect(0, 0, canvas.width, canvas.height)
+          var drawMode = false;
+          
+          canvas.onmousedown = function (e) {
+              ctx.beginPath();
+              ctx.strokeStyle = p_color;
+              ctx.lineWidth = p_width;
+              ctx.moveTo(e.offsetX, e.offsetY);
+              drawMode = true;
+          }
+          canvas.onmousemove = function (e) {
+              if (drawMode) {
+                  ctx.lineTo(e.offsetX, e.offsetY);
+                  ctx.stroke();
+              }
+          }
+          canvas.onmouseup = function (e) {
+              drawMode = false;
+          }
+      }
+      function yy(){
+          window.alert("great");
+      }
+  </script>
+</head>
+<body onload="draw()">
+ <div id="dCanvas">
+  <canvas id="cSketchPad" width="1000" height="1000" style="border: 3px solid rgba(184, 233, 10, 0.671)" />
+ </div>
+ <button onclick="yy()">評價</button>
+</body>
+</html>

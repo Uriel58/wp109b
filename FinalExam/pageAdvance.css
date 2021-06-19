@@ -53,8 +53,8 @@ body {
 }
 
 .circle{
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
-    background-color: green;
+    height: 50px;
+    width: 500px;
+    border-radius: 20%;
+    background-color: rgb(142, 143, 192);
 }
